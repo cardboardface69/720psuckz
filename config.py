@@ -12,7 +12,7 @@ BOT_TOKEN = "5777675996:AAHduaZfuZPb9s25c_Wu0uNQooWYnYfzTPY"
 
 MONGO_DB_URI = "mongodb+srv://720p:1234@cluster0.6xgymtk.mongodb.net/?retryWrites=true&w=majority"
 
-INDEX_ID = -1001683721228
+INDEX_ID = -1001159872623
 
 UPLOADS_ID = -1001679692000
 
@@ -22,7 +22,7 @@ LINK_ID = -1001878265967
 
 STATUS_ID = 4
 
-SCHEDULE_ID = 3
+SCHEDULE_ID = 15849
 
 CHANNEL_TITLE = "Animxt"
 
